@@ -1,6 +1,8 @@
-### Hi there 👋
+
+# Hi there 👋
 
 # 💫About Me :
+<p>👦 My name: Trương Hữu Thọ.</p>
 <p>🔭 I'm currently studying Computer Science at University of Information Technology. </p>
 <p>🙌 I hope we can work together someday.</p>
 <p>🌱 I'm currently learning C++, Python, HTML,... </p>
