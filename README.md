@@ -1,18 +1,18 @@
 # 👋 Hi there!
 
 ## 💻 About Me
-⛄ My name: Trương Hữu Thọ.
+⛄  My name is **Trương Hữu Thọ**. <br>
 🎓 I recently graduated with a degree in __Computer Science__ from the **University of Information Technology (UIT)**.  
 🚀 I'm passionate about building full-stack applications and constantly exploring new technologies.  
 🎯 My goal is to become a **skilled and reliable software developer**.
 
 ## 🛠️ Tech Stack
-- 🔹 Programming Languages: **JavaScript (ES6+)**, **basic TypeScript**. **Java**, **a little about Python**
-- 🔹 Frontend: **ReactJS**, **NextJS**.
-- 🔹 Backend: **ExpressJS**.
-- 🔹 Styling: **TailwindCSS**, **SCSS**, **CSS Modules**, **Figma**.
-- 🔹 Database & ORM: **PostgreSQL with Prisma ORM**, **MySQL (via MySQL Workbench)**, **MongoDB with Mongoose**.
-- 🔹 Version Control: **Git**,
+- Programming Languages: **JavaScript (ES6+)**, **basic TypeScript**. **Java**, **a little about Python**
+- Frontend: **ReactJS**, **NextJS**.
+- Backend: **ExpressJS**.
+- Styling: **TailwindCSS**, **SCSS**, **CSS Modules**, **Figma**.
+- Database & ORM: **PostgreSQL with Prisma ORM**, **MySQL (via MySQL Workbench)**, **MongoDB with Mongoose**.
+- Version Control: **Git**,
 
 ## 🌱 Currently Learning
 - Advanced concepts in **JavaScript**
