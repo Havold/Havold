@@ -1,8 +1,8 @@
 # 👋 Hi there!
 
 ## 💻 About Me
-<p>⛄ My name: Trương Hữu Thọ.</p>
-🎓 I recently graduated with a degree in **Computer Science** from the **University of Information Technology (UIT)**.  
+⛄ My name: Trương Hữu Thọ.
+🎓 I recently graduated with a degree in __Computer Science__ from the **University of Information Technology (UIT)**.  
 🚀 I'm passionate about building full-stack applications and constantly exploring new technologies.  
 🎯 My goal is to become a **skilled and reliable software developer**.
 
